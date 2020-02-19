@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fc3df12-2c0a-4903-8ee4-201f153ca6ad" name="Default Changelist" comment="" />
+    <list default="true" id="7fc3df12-2c0a-4903-8ee4-201f153ca6ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lesson1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XKj2ws0UfBi2ck866UJEJ01kI3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,6 +45,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\MIT2020morning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\MIT2020morning" />
     </key>
@@ -90,7 +96,9 @@
       <workItem from="1581580920985" duration="1789000" />
       <workItem from="1581582748524" duration="1541000" />
       <workItem from="1581659493392" duration="27000" />
-      <workItem from="1581659603193" duration="9100000" />
+      <workItem from="1581659603193" duration="9431000" />
+      <workItem from="1582007939283" duration="6810000" />
+      <workItem from="1582092136959" duration="9337000" />
     </task>
     <servers />
   </component>
@@ -98,10 +106,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1581661763593">
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1582097881372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1581661763593" />
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582097881372" />
     <state x="440" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581494602457">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
